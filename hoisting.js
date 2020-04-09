@@ -34,4 +34,4 @@ function sayMyName() {
   }
 }
 
-console.log(sayMyName()());
+//console.log(sayMyName();
